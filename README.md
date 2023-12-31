@@ -37,8 +37,8 @@
 
 ### Accuracy Graph
 
-![Graph Image](./rec/graph.png)
+![Graph Image](./graph.png)
 
 ### Output
 
-![Output Image](./rec/output.png)
+![Output Image](./output.png)
